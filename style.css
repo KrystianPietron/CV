@@ -16,7 +16,7 @@ html {
 
 body {
   margin: 0;
-  background-color: #fff;
+  backgroundcolor: #fff;
 }
 
 /* img {
@@ -124,6 +124,12 @@ ul {
   }
 }
 @media (max-width: 1415px){
+  img{
+    height:211px;
+    width: 145px;
+  }
+}
+@media (min-width: 1416px){
   img{
     height:211px;
     width: 145px;
