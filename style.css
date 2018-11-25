@@ -19,10 +19,10 @@ body {
   background-color: #fff;
 }
 
-img {
+/* img {
   max-width: 100%;
   height: auto;
-}
+} */
 .u-cf:before, .u-cf:after {
   content: " ";
   display: table;
