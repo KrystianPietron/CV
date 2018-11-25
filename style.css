@@ -117,7 +117,18 @@ a {
 ul {
   padding-left: 1.8rem;
 }
-
+@media (max-width: 525px){
+  img{
+    height:230px;
+    width: 165px;
+  }
+}
+@media (max-width: 1415px){
+  img{
+    height:211px;
+    width: 145px;
+  }
+}
 .Title {
   font-size: 50px;
   font-size: 8vw;
@@ -431,4 +442,7 @@ a.Navbar-btn:hover {
 }
 @page {
   margin: 2.2cm 2.2cm 1.8cm;
+}
+.clause p{
+font-size: 8px;
 }
